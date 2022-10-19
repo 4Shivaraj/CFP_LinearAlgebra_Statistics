@@ -1,0 +1,10 @@
+2022-10-19 11:46:20,942 (program_1) INFO After addition of matrix: [[17, 15, 4], [10, 12, 9], [11, 13, 18]]
+2022-10-19 11:46:25,476 (program_2) INFO After scalar multiplication of matrix: [[108, 63, 27], [36, 45, 54], [63, 72, 81]]
+2022-10-19 11:46:30,659 (program_3) INFO After vector multiplication of matrix: [10, 9, 8]
+2022-10-19 11:46:35,879 (program_4) INFO After multiplying two matrix: [[114, 160, 60], [74, 97, 73], [119, 157, 112]]
+2022-10-19 11:46:40,264 (program_5) INFO ([-3, -39, 27], [6, 87, -60], [-3, -47, 32], '/(-3)')
+2022-10-19 11:46:45,361 (program_5) INFO After inversing the matrix: 
+[[  1.          13.          -9.        ]
+ [ -2.         -29.          20.        ]
+ [  1.          15.66666667 -10.66666667]]
+2022-10-19 11:47:02,188 (program_6) INFO After transposing of matrix: [[5, 6, 4], [8, 7, 5], [1, 3, 9]]
