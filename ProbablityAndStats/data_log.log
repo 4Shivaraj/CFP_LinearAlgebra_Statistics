@@ -1,0 +1,118 @@
+2022-10-21 01:06:51,903 (program_9) INFO the probability that they will be prescribed pain pills: 0.16
+2022-10-21 01:31:10,842 (program_10) INFO Z score of P(x < 40): 2.5
+2022-10-21 01:31:10,844 (program_10) INFO Z score of P(x > 21): -2.25
+2022-10-21 01:31:10,845 (program_10) INFO Z score of P(30 < x < 35): 2.5
+2022-10-21 01:32:02,987 (program_10) INFO Z score of P(x < 40): 2.5
+2022-10-21 01:32:02,989 (program_10) INFO Z score of P(x > 21): -2.25
+2022-10-21 01:32:02,990 (program_10) INFO Z score of P(30 < x < 35): 2.5
+2022-10-21 01:37:05,626 (program_10) INFO 
+Z score of P(x < 40): 2.5
+2022-10-21 01:37:05,628 (program_10) INFO P(x < 40) using standard normal distribution: 
+2022-10-21 01:37:05,629 (program_10) INFO 
+Z score of P(x > 21): -2.25
+2022-10-21 01:37:05,632 (program_10) INFO P(x < 40) using standard normal distribution: 
+2022-10-21 01:37:05,633 (program_10) INFO 
+Z score of P(30 < x < 35): 2.5
+2022-10-21 01:37:05,635 (program_10) INFO P(30< x < 35) using standard normal distribution: 
+2022-10-21 01:44:58,710 (program_10) INFO 
+Z score of P(x < 40): 2.5
+2022-10-21 01:44:58,712 (program_10) INFO P(x < 40) using standard normal distribution: 0.9938
+2022-10-21 01:44:58,713 (program_10) INFO 
+Z score of P(x > 21): -2.25
+2022-10-21 01:44:58,715 (program_10) INFO P(x < 40) using standard normal distribution: 0.122
+2022-10-21 01:44:58,716 (program_10) INFO 
+Z score of P(30 < x < 35): 1.25
+2022-10-21 01:44:58,717 (program_10) INFO P(30< x < 35) using standard normal distribution: 0.9938
+2022-10-21 01:46:09,170 (program_10) INFO 
+Z score of P(x < 40): 2.5
+2022-10-21 01:46:09,171 (program_10) INFO P(x < 40) using standard normal distribution: 0.9938
+2022-10-21 01:46:09,172 (program_10) INFO 
+Z score of P(x > 21): -2.25
+2022-10-21 01:46:09,174 (program_10) INFO P(x < 40) using standard normal distribution: 0.122
+2022-10-21 01:46:09,175 (program_10) INFO 
+Z score of P(30 < x < 35): 1.25
+2022-10-21 01:46:09,177 (program_10) INFO P(30< x < 35) using standard normal distribution: 0.8944
+2022-10-21 01:46:28,403 (program_10) INFO Z score of P(x < 40): 2.5
+2022-10-21 01:46:28,405 (program_10) INFO P(x < 40) using standard normal distribution: 0.9938
+2022-10-21 01:46:28,406 (program_10) INFO Z score of P(x > 21): -2.25
+2022-10-21 01:46:28,408 (program_10) INFO P(x < 40) using standard normal distribution: 0.122
+2022-10-21 01:46:28,409 (program_10) INFO Z score of P(30 < x < 35): 1.25
+2022-10-21 01:46:28,410 (program_10) INFO P(30< x < 35) using standard normal distribution: 0.8944
+2022-10-21 01:53:12,664 (program_11) INFO Z score of P(x > 100): 1.0
+2022-10-21 01:53:12,665 (program_11) INFO the probability that a car picked at random is travelling at more than 100 km/hr: 
+2022-10-21 01:54:59,980 (program_11) INFO Z score of P(x > 100): 1.0
+2022-10-21 01:54:59,982 (program_11) INFO the probability that a car picked at random is travelling at more than 100 km/hr: (1-0.8413) = 0.1587 
+2022-10-21 02:02:18,715 (program_12) INFO the probability of getting a random number from the given interval: 0.2
+2022-10-21 02:04:13,911 (program_12) INFO the probability of getting a random number from the given interval: 0.2
+2022-10-21 02:42:48,084 (program_12) INFO the corelation co_efficient of x and y: -0.14614402427021678
+2022-10-21 11:51:38,364 (program_4) INFO 
+1.What is the probability of three heads, HHH? 
+2.What is the probability that you observe exactly one heads? 
+3.Given that you have observed at least one heads, what is the probability that you observe at least two heads? 
+2022-10-21 11:51:44,015 (program_4) INFO The probablity of getting heads are : 0.125
+2022-10-21 11:52:39,414 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 11:52:42,062 (program_5) INFO The probablity: 0.375
+2022-10-21 12:01:40,174 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:01:43,427 (program_5) INFO The probablity: 0.125
+2022-10-21 12:01:55,825 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:01:58,252 (program_5) INFO The probablity: 0.22916666666666666
+2022-10-21 12:02:08,104 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:02:14,144 (program_5) INFO The probablity: 0.22916666666666666
+2022-10-21 12:03:18,853 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:03:21,780 (program_5) INFO The probablity: 0.125
+2022-10-21 12:07:06,989 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:07:10,488 (program_5) INFO The probablity: 0.5454545454545455
+2022-10-21 12:10:12,957 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:10:17,145 (program_5) INFO The probablity: 0.125
+2022-10-21 12:10:22,131 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:10:24,704 (program_5) INFO The probablity: 0.22916666666666666
+2022-10-21 12:10:27,769 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 12:10:30,513 (program_5) INFO The probablity: 0.5454545454545455
+2022-10-21 12:17:30,440 (program_13) INFO the co-relation co_efficient of x and y: -0.14614402427021678
+2022-10-21 16:02:46,072 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 16:02:54,408 (program_5) INFO The probablity: 0.125
+2022-10-21 16:03:02,817 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 16:03:05,381 (program_5) INFO The probablity: 0.22916666666666666
+2022-10-21 16:03:13,202 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 16:03:15,591 (program_5) INFO The probablity: 0.22916666666666666
+2022-10-21 16:03:19,166 (program_5) INFO 
+1: find is the probability that it's not raining and there is heavy traffic and I am not late? 
+2: probability that I am late? 
+3: I arrived late at work, what is the probability that it rained that day?
+2022-10-21 16:03:21,222 (program_5) INFO The probablity: 0.5454545454545455
